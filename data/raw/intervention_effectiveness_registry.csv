@@ -1,0 +1,21 @@
+Intervention_ID,Intervention_Name,Category,Effectiveness_Score,Feasibility_Score,Cost_Effectiveness_Score,ASAL_Suitable,WHO_Evidence_Level,Budget_Requirement,Composite_Score
+INT001,Community Health Worker Deployment,Health System,88,82,79,True,Strong,Medium,84.0
+INT002,Integrated Management of Childhood Illness (IMCI),Health System,91,75,85,True,Strong,Medium,84.7
+INT003,Antenatal Care Scale-Up (4+ visits),Maternal Health,86,80,88,True,Strong,Low,84.7
+INT004,Skilled Birth Attendance Training,Maternal Health,89,72,80,True,Strong,Medium,81.6
+INT005,Emergency Obstetric Care (EmOC),Maternal Health,93,60,70,False,Strong,High,77.4
+INT006,Expanded Programme on Immunization (EPI),Immunization,92,88,91,True,Strong,Low,90.6
+INT007,Vitamin A Supplementation,Nutrition,84,92,95,True,Strong,Low,89.2
+INT008,Community-Based Management of Acute Malnutrition (CMAM),Nutrition,87,78,82,True,Strong,Medium,83.0
+INT009,Exclusive Breastfeeding Promotion,Nutrition,83,90,94,True,Moderate,Low,87.8
+INT010,Therapeutic Feeding Centres,Nutrition,85,65,72,True,Strong,Medium,75.8
+INT011,Oral Rehydration Therapy (ORT) Scale-Up,Diarrhea Control,88,91,96,True,Strong,Low,90.9
+INT012,Community-Led Total Sanitation (CLTS),WASH,80,84,87,True,Moderate,Low,83.0
+INT013,Borehole and Safe Water Point Construction,WASH,78,70,75,True,Moderate,High,74.8
+INT014,Insecticide-Treated Nets (ITN) Distribution,Malaria,90,88,92,True,Strong,Low,89.9
+INT015,Indoor Residual Spraying (IRS),Malaria,87,72,78,True,Strong,Medium,80.2
+INT016,Seasonal Malaria Chemoprevention (SMC),Malaria,85,80,84,True,Strong,Low,83.2
+INT017,Pneumonia Case Management (Amoxicillin),Pneumonia,89,85,90,True,Strong,Low,88.1
+INT018,Kangaroo Mother Care (KMC),Newborn Care,86,78,83,False,Strong,Low,82.8
+INT019,Neonatal Resuscitation Training,Newborn Care,88,70,77,False,Strong,Medium,79.8
+INT020,Social Protection & Cash Transfers,Social,75,68,72,True,Moderate,High,72.2

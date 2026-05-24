@@ -1,0 +1,120 @@
+Deployment_ID,County,Intervention_ID,Intervention_Name,Year,Partner,Implementation_Score,Coverage_Achieved_pct,Outcome_Mortality_Reduction_pct,Budget_Utilized_KES_Million,Duration_Months,Monitoring_Visits
+DEP001,Mandera,INT019,Neonatal Resuscitation Training,2023,Amref Health Africa,96.6,87.1,7.7,33.81,21,2
+DEP002,Mandera,INT009,Exclusive Breastfeeding Promotion,2024,Save the Children,97.3,76.7,19.6,9.14,11,3
+DEP003,Mandera,INT014,Insecticide-Treated Nets (ITN) Distribution,2024,WHO Kenya,62.0,40.7,17.9,24.68,7,3
+DEP004,Mandera,INT017,Pneumonia Case Management (Amoxicillin),2023,Amref Health Africa,86.5,50.3,24.7,37.22,23,7
+DEP005,Mandera,INT005,Emergency Obstetric Care (EmOC),2024,MOH Kenya,68.5,65.9,23.9,21.75,7,7
+DEP006,Mandera,INT010,Therapeutic Feeding Centres,2024,MOH Kenya,69.4,49.6,21.4,37.52,6,6
+DEP007,Wajir,INT008,Community-Based Management of Acute Malnutrition (CMAM),2022,USAID/MCSP,69.0,77.7,6.6,9.52,14,5
+DEP008,Wajir,INT016,Seasonal Malaria Chemoprevention (SMC),2022,WHO Kenya,84.8,68.2,12.0,11.14,8,2
+DEP009,Wajir,INT017,Pneumonia Case Management (Amoxicillin),2022,Save the Children,83.1,91.6,25.0,34.94,8,5
+DEP010,Wajir,INT013,Borehole and Safe Water Point Construction,2022,USAID/MCSP,83.0,88.1,5.0,9.27,7,7
+DEP011,Wajir,INT012,Community-Led Total Sanitation (CLTS),2023,Amref Health Africa,92.2,70.1,13.7,44.0,19,4
+DEP012,Turkana,INT015,Indoor Residual Spraying (IRS),2022,WHO Kenya,82.0,69.3,19.6,21.34,11,6
+DEP013,Turkana,INT019,Neonatal Resuscitation Training,2022,MOH Kenya,59.2,53.3,5.3,22.16,19,4
+DEP014,Turkana,INT002,Integrated Management of Childhood Illness (IMCI),2022,WHO Kenya,64.7,80.2,18.8,4.77,13,3
+DEP015,Turkana,INT018,Kangaroo Mother Care (KMC),2022,Save the Children,80.5,89.1,9.3,5.4,22,7
+DEP016,Turkana,INT005,Emergency Obstetric Care (EmOC),2024,WHO Kenya,97.8,87.1,17.0,4.74,10,4
+DEP017,Turkana,INT016,Seasonal Malaria Chemoprevention (SMC),2022,Save the Children,59.0,90.0,20.4,37.66,6,6
+DEP018,Garissa,INT002,Integrated Management of Childhood Illness (IMCI),2024,MOH Kenya,59.5,61.1,16.2,30.05,7,3
+DEP019,Garissa,INT007,Vitamin A Supplementation,2024,UNICEF Kenya,76.8,74.9,6.6,12.94,22,6
+DEP020,Garissa,INT016,Seasonal Malaria Chemoprevention (SMC),2023,USAID/MCSP,94.0,53.1,15.8,21.37,18,2
+DEP021,Garissa,INT001,Community Health Worker Deployment,2024,Amref Health Africa,81.3,55.4,9.8,24.21,11,2
+DEP022,Garissa,INT011,Oral Rehydration Therapy (ORT) Scale-Up,2023,UNICEF Kenya,64.4,42.0,7.5,16.57,22,7
+DEP023,Marsabit,INT004,Skilled Birth Attendance Training,2022,Amref Health Africa,62.1,61.4,21.8,39.94,18,5
+DEP024,Marsabit,INT013,Borehole and Safe Water Point Construction,2022,UNICEF Kenya,90.4,92.5,23.9,2.07,19,7
+DEP025,Marsabit,INT006,Expanded Programme on Immunization (EPI),2022,UNICEF Kenya,81.0,77.8,7.6,18.51,9,3
+DEP026,Marsabit,INT002,Integrated Management of Childhood Illness (IMCI),2022,WHO Kenya,80.6,70.2,25.7,19.38,20,2
+DEP027,Samburu,INT005,Emergency Obstetric Care (EmOC),2022,USAID/MCSP,77.8,85.6,27.8,37.26,14,7
+DEP028,Samburu,INT008,Community-Based Management of Acute Malnutrition (CMAM),2024,WHO Kenya,75.9,71.7,6.0,7.29,22,2
+DEP029,Samburu,INT012,Community-Led Total Sanitation (CLTS),2024,UNICEF Kenya,57.9,61.3,24.6,19.37,18,2
+DEP030,Samburu,INT014,Insecticide-Treated Nets (ITN) Distribution,2022,Amref Health Africa,88.9,64.6,23.4,37.36,17,2
+DEP031,Samburu,INT015,Indoor Residual Spraying (IRS),2024,WHO Kenya,80.0,60.4,18.8,32.34,6,3
+DEP032,Tana River,INT017,Pneumonia Case Management (Amoxicillin),2022,USAID/MCSP,91.2,71.9,17.9,6.53,22,6
+DEP033,Tana River,INT011,Oral Rehydration Therapy (ORT) Scale-Up,2023,Save the Children,64.8,93.8,17.2,7.84,19,7
+DEP034,Tana River,INT013,Borehole and Safe Water Point Construction,2024,WHO Kenya,61.9,41.3,22.4,21.72,15,6
+DEP035,Tana River,INT014,Insecticide-Treated Nets (ITN) Distribution,2023,Save the Children,70.9,60.6,15.9,21.1,23,5
+DEP036,Tana River,INT006,Expanded Programme on Immunization (EPI),2022,UNICEF Kenya,58.8,73.4,8.5,3.33,21,7
+DEP037,Tana River,INT016,Seasonal Malaria Chemoprevention (SMC),2022,Save the Children,75.5,69.3,8.9,12.62,8,3
+DEP038,Isiolo,INT020,Social Protection & Cash Transfers,2024,MOH Kenya,72.3,94.7,25.2,28.81,10,6
+DEP039,Isiolo,INT002,Integrated Management of Childhood Illness (IMCI),2022,UNICEF Kenya,85.6,89.9,8.0,27.5,7,4
+DEP040,Isiolo,INT006,Expanded Programme on Immunization (EPI),2023,Save the Children,74.7,42.1,22.2,25.62,10,2
+DEP041,Isiolo,INT008,Community-Based Management of Acute Malnutrition (CMAM),2022,Amref Health Africa,56.5,93.3,26.8,24.05,17,5
+DEP042,Kwale,INT013,Borehole and Safe Water Point Construction,2024,MOH Kenya,89.7,66.2,27.9,4.56,18,2
+DEP043,Kwale,INT019,Neonatal Resuscitation Training,2022,UNICEF Kenya,67.8,53.2,12.2,13.01,10,6
+DEP044,Kwale,INT018,Kangaroo Mother Care (KMC),2024,Amref Health Africa,64.5,80.4,22.5,41.96,16,4
+DEP045,Kwale,INT015,Indoor Residual Spraying (IRS),2023,USAID/MCSP,60.8,56.5,13.3,36.59,8,7
+DEP046,Kwale,INT005,Emergency Obstetric Care (EmOC),2022,Amref Health Africa,55.4,94.9,20.6,37.62,12,7
+DEP047,Kwale,INT010,Therapeutic Feeding Centres,2024,WHO Kenya,86.7,85.9,22.0,8.14,13,6
+DEP048,Kilifi,INT012,Community-Led Total Sanitation (CLTS),2023,Save the Children,96.1,68.7,11.9,5.31,7,3
+DEP049,Kilifi,INT011,Oral Rehydration Therapy (ORT) Scale-Up,2023,MOH Kenya,61.2,79.1,20.3,11.08,7,4
+DEP050,Kilifi,INT005,Emergency Obstetric Care (EmOC),2024,Amref Health Africa,61.6,54.6,5.5,27.08,12,2
+DEP051,Kilifi,INT019,Neonatal Resuscitation Training,2022,UNICEF Kenya,64.4,41.9,9.9,19.89,22,7
+DEP052,Kilifi,INT010,Therapeutic Feeding Centres,2023,USAID/MCSP,90.3,70.5,19.7,24.63,23,5
+DEP053,Kilifi,INT013,Borehole and Safe Water Point Construction,2023,MOH Kenya,68.0,55.9,18.0,7.16,13,3
+DEP054,Bungoma,INT005,Emergency Obstetric Care (EmOC),2022,Amref Health Africa,65.6,80.7,12.3,6.38,6,4
+DEP055,Bungoma,INT004,Skilled Birth Attendance Training,2024,UNICEF Kenya,91.2,57.2,23.1,40.35,18,4
+DEP056,Bungoma,INT016,Seasonal Malaria Chemoprevention (SMC),2022,Amref Health Africa,71.2,93.0,7.1,31.54,6,5
+DEP057,Bungoma,INT003,Antenatal Care Scale-Up (4+ visits),2024,UNICEF Kenya,85.3,40.2,8.8,32.66,18,6
+DEP058,Bungoma,INT010,Therapeutic Feeding Centres,2022,MOH Kenya,60.6,77.2,26.7,13.57,17,6
+DEP059,Bungoma,INT007,Vitamin A Supplementation,2023,UNICEF Kenya,70.5,92.6,16.5,20.61,20,3
+DEP060,Migori,INT011,Oral Rehydration Therapy (ORT) Scale-Up,2022,Save the Children,56.5,61.7,26.4,7.41,8,5
+DEP061,Migori,INT006,Expanded Programme on Immunization (EPI),2023,MOH Kenya,57.2,77.5,15.8,26.9,16,4
+DEP062,Migori,INT010,Therapeutic Feeding Centres,2022,UNICEF Kenya,90.4,83.0,17.5,6.29,15,7
+DEP063,Migori,INT020,Social Protection & Cash Transfers,2022,Save the Children,94.2,86.1,21.3,42.8,8,2
+DEP064,Migori,INT019,Neonatal Resuscitation Training,2024,Amref Health Africa,77.8,72.7,5.2,21.96,9,3
+DEP065,Migori,INT015,Indoor Residual Spraying (IRS),2023,Amref Health Africa,87.8,65.0,11.1,11.45,17,4
+DEP066,Homa Bay,INT017,Pneumonia Case Management (Amoxicillin),2022,MOH Kenya,91.4,41.3,25.7,35.68,13,6
+DEP067,Homa Bay,INT012,Community-Led Total Sanitation (CLTS),2023,WHO Kenya,68.0,43.6,10.2,12.6,18,5
+DEP068,Homa Bay,INT003,Antenatal Care Scale-Up (4+ visits),2024,MOH Kenya,57.5,92.7,26.7,35.76,23,4
+DEP069,Homa Bay,INT013,Borehole and Safe Water Point Construction,2024,MOH Kenya,88.4,51.3,21.7,28.65,15,4
+DEP070,Siaya,INT002,Integrated Management of Childhood Illness (IMCI),2023,USAID/MCSP,84.7,91.2,16.4,11.9,6,3
+DEP071,Siaya,INT005,Emergency Obstetric Care (EmOC),2023,WHO Kenya,87.7,59.5,26.8,43.38,11,7
+DEP072,Siaya,INT007,Vitamin A Supplementation,2023,Amref Health Africa,87.7,70.1,9.1,21.72,8,7
+DEP073,West Pokot,INT014,Insecticide-Treated Nets (ITN) Distribution,2023,UNICEF Kenya,64.4,65.2,26.1,9.57,11,7
+DEP074,West Pokot,INT016,Seasonal Malaria Chemoprevention (SMC),2023,USAID/MCSP,55.6,85.6,21.8,17.27,22,4
+DEP075,West Pokot,INT010,Therapeutic Feeding Centres,2024,Save the Children,96.0,93.2,14.0,38.73,9,7
+DEP076,West Pokot,INT005,Emergency Obstetric Care (EmOC),2022,WHO Kenya,83.7,48.9,18.0,35.18,17,2
+DEP077,Nairobi,INT012,Community-Led Total Sanitation (CLTS),2024,MOH Kenya,83.5,46.5,11.6,19.11,7,4
+DEP078,Nairobi,INT019,Neonatal Resuscitation Training,2022,UNICEF Kenya,87.7,60.4,14.0,34.43,8,4
+DEP079,Nairobi,INT001,Community Health Worker Deployment,2022,WHO Kenya,66.8,74.2,27.8,18.61,23,5
+DEP080,Mombasa,INT003,Antenatal Care Scale-Up (4+ visits),2024,WHO Kenya,73.4,57.9,24.3,8.18,12,3
+DEP081,Mombasa,INT007,Vitamin A Supplementation,2022,Save the Children,87.8,85.3,25.4,25.41,18,6
+DEP082,Mombasa,INT004,Skilled Birth Attendance Training,2022,WHO Kenya,80.5,41.8,19.6,17.67,20,4
+DEP083,Kiambu,INT009,Exclusive Breastfeeding Promotion,2024,Save the Children,56.6,47.0,22.6,2.0,11,6
+DEP084,Kiambu,INT007,Vitamin A Supplementation,2022,USAID/MCSP,63.6,51.2,5.2,20.81,20,5
+DEP085,Kiambu,INT005,Emergency Obstetric Care (EmOC),2023,WHO Kenya,83.5,80.8,24.5,20.17,23,7
+DEP086,Nyeri,INT017,Pneumonia Case Management (Amoxicillin),2023,WHO Kenya,66.6,68.5,11.2,29.02,22,5
+DEP087,Nyeri,INT002,Integrated Management of Childhood Illness (IMCI),2024,UNICEF Kenya,60.6,70.8,23.0,32.47,9,2
+DEP088,Nyeri,INT013,Borehole and Safe Water Point Construction,2022,USAID/MCSP,85.0,79.3,15.6,41.6,12,6
+DEP089,Nyeri,INT012,Community-Led Total Sanitation (CLTS),2023,UNICEF Kenya,66.8,84.4,9.5,16.85,11,5
+DEP090,Nakuru,INT005,Emergency Obstetric Care (EmOC),2024,Amref Health Africa,85.3,93.4,15.1,12.1,11,2
+DEP091,Nakuru,INT006,Expanded Programme on Immunization (EPI),2022,UNICEF Kenya,78.3,63.6,12.1,22.74,13,6
+DEP092,Nakuru,INT014,Insecticide-Treated Nets (ITN) Distribution,2023,WHO Kenya,96.0,52.5,25.2,36.78,9,5
+DEP093,Nakuru,INT010,Therapeutic Feeding Centres,2024,USAID/MCSP,92.5,77.0,23.3,12.77,8,3
+DEP094,Nakuru,INT011,Oral Rehydration Therapy (ORT) Scale-Up,2024,WHO Kenya,82.0,53.6,8.7,10.04,17,7
+DEP095,Nakuru,INT002,Integrated Management of Childhood Illness (IMCI),2022,WHO Kenya,63.2,62.6,26.5,20.51,19,6
+DEP096,Kisumu,INT008,Community-Based Management of Acute Malnutrition (CMAM),2022,USAID/MCSP,95.5,90.3,5.3,21.36,15,2
+DEP097,Kisumu,INT017,Pneumonia Case Management (Amoxicillin),2023,Amref Health Africa,78.6,93.8,17.8,10.16,14,2
+DEP098,Kisumu,INT012,Community-Led Total Sanitation (CLTS),2024,UNICEF Kenya,72.1,54.5,9.7,22.77,21,3
+DEP099,Kisumu,INT013,Borehole and Safe Water Point Construction,2023,Amref Health Africa,96.6,73.2,6.8,5.25,11,5
+DEP100,Uasin Gishu,INT007,Vitamin A Supplementation,2023,Save the Children,62.5,46.4,15.3,28.33,21,6
+DEP101,Uasin Gishu,INT013,Borehole and Safe Water Point Construction,2024,Amref Health Africa,81.9,60.5,6.2,28.98,18,5
+DEP102,Uasin Gishu,INT017,Pneumonia Case Management (Amoxicillin),2024,UNICEF Kenya,78.3,91.7,10.1,33.21,19,3
+DEP103,Uasin Gishu,INT004,Skilled Birth Attendance Training,2023,Amref Health Africa,59.4,40.5,15.0,5.98,20,5
+DEP104,Uasin Gishu,INT011,Oral Rehydration Therapy (ORT) Scale-Up,2022,WHO Kenya,86.1,40.5,18.6,28.37,14,3
+DEP105,Meru,INT012,Community-Led Total Sanitation (CLTS),2022,WHO Kenya,80.6,60.5,12.7,40.05,9,4
+DEP106,Meru,INT019,Neonatal Resuscitation Training,2024,Save the Children,88.8,61.9,16.8,12.89,19,4
+DEP107,Meru,INT006,Expanded Programme on Immunization (EPI),2023,USAID/MCSP,73.4,51.3,23.4,16.35,6,7
+DEP108,Meru,INT014,Insecticide-Treated Nets (ITN) Distribution,2022,UNICEF Kenya,56.5,83.3,14.5,39.57,11,3
+DEP109,Embu,INT001,Community Health Worker Deployment,2024,UNICEF Kenya,87.9,62.5,20.1,13.19,11,6
+DEP110,Embu,INT007,Vitamin A Supplementation,2022,Save the Children,88.8,91.8,22.2,32.98,20,5
+DEP111,Embu,INT013,Borehole and Safe Water Point Construction,2024,WHO Kenya,89.7,40.4,26.3,21.06,15,2
+DEP112,Embu,INT003,Antenatal Care Scale-Up (4+ visits),2022,Save the Children,70.2,85.6,23.2,15.24,10,5
+DEP113,Embu,INT008,Community-Based Management of Acute Malnutrition (CMAM),2023,USAID/MCSP,71.1,54.9,10.3,15.7,14,7
+DEP114,Embu,INT016,Seasonal Malaria Chemoprevention (SMC),2024,Save the Children,76.6,50.7,24.8,31.11,22,5
+DEP115,Nyandarua,INT011,Oral Rehydration Therapy (ORT) Scale-Up,2023,UNICEF Kenya,69.8,62.8,21.8,39.91,15,5
+DEP116,Nyandarua,INT019,Neonatal Resuscitation Training,2024,MOH Kenya,60.1,51.7,12.2,9.18,20,7
+DEP117,Nyandarua,INT006,Expanded Programme on Immunization (EPI),2024,WHO Kenya,69.4,81.2,18.2,44.41,14,2
+DEP118,Nyandarua,INT010,Therapeutic Feeding Centres,2023,UNICEF Kenya,78.3,78.3,21.1,9.38,23,3
+DEP119,Nyandarua,INT014,Insecticide-Treated Nets (ITN) Distribution,2024,Save the Children,92.4,74.7,17.2,6.96,22,6
