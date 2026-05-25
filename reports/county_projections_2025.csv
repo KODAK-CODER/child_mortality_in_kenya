@@ -1,0 +1,48 @@
+County,Region,ASAL_Flag,Risk_Tier,Baseline_2022,Projected_U5_Mortality_2025,Reduction_pct
+Mandera,North Eastern,1,High,62.7,38.7,38.28
+Wajir,North Eastern,1,High,58.7,45.4,22.66
+Turkana,Rift Valley,1,High,64.8,41.6,35.8
+Garissa,North Eastern,1,High,75.5,57.4,23.97
+Marsabit,Eastern,1,High,73.3,57.3,21.83
+Samburu,Rift Valley,1,Medium,46.4,50.3,-8.41
+Tana River,Coast,1,Medium,44.8,57.7,-28.79
+Isiolo,Eastern,1,Medium,30.7,43.8,-42.67
+Kwale,Coast,0,Medium,50.8,39.5,22.24
+Kilifi,Coast,0,Medium,39.6,38.1,3.79
+Bungoma,Western,0,Medium,46.6,33.1,28.97
+Migori,Nyanza,0,Medium,31.9,34.4,-7.84
+Homa Bay,Nyanza,0,Medium,37.5,32.6,13.07
+Siaya,Nyanza,0,Medium,40.7,33.6,17.44
+West Pokot,Rift Valley,1,Medium,47.6,43.8,7.98
+Nairobi,Nairobi,0,Low,29.1,33.8,-16.15
+Mombasa,Coast,0,Low,26.7,32.8,-22.85
+Kiambu,Central,0,Low,16.7,34.0,-103.59
+Nyeri,Central,0,Low,26.6,30.6,-15.04
+Nakuru,Rift Valley,0,Low,15.0,41.6,-177.33
+Kisumu,Nyanza,0,Low,15.0,35.2,-134.67
+Uasin Gishu,Rift Valley,0,Low,22.2,51.3,-131.08
+Meru,Eastern,0,Low,23.1,32.4,-40.26
+Embu,Eastern,0,Low,20.2,47.6,-135.64
+Nyandarua,Central,0,Low,26.6,28.5,-7.14
+Laikipia,Rift Valley,0,Low,15.0,37.6,-150.67
+Machakos,Eastern,0,Low,29.2,49.4,-69.18
+Makueni,Eastern,0,Low,15.0,21.6,-44.0
+Kitui,Eastern,0,Medium,41.9,36.4,13.13
+Murang'A,Central,0,Low,21.9,50.8,-131.96
+Kirinyaga,Central,0,Low,30.0,50.0,-66.67
+Kajiado,Rift Valley,1,Medium,34.5,43.0,-24.64
+Narok,Rift Valley,1,Medium,41.6,64.7,-55.53
+Bomet,Rift Valley,0,Medium,48.5,31.8,34.43
+Kericho,Rift Valley,0,Low,18.1,21.9,-20.99
+Nandi,Rift Valley,0,Low,18.9,39.4,-108.47
+Elgeyo Marakwet,Rift Valley,0,Medium,35.8,52.2,-45.81
+Baringo,Rift Valley,0,Medium,50.2,36.9,26.49
+Trans Nzoia,Rift Valley,0,Medium,53.6,39.8,25.75
+Busia,Western,0,Medium,31.9,51.3,-60.82
+Kakamega,Western,0,Medium,49.8,52.4,-5.22
+Vihiga,Western,0,Medium,50.1,36.8,26.55
+Kisii,Nyanza,0,Medium,44.8,51.8,-15.62
+Nyamira,Nyanza,0,Medium,32.5,37.5,-15.38
+Taita Taveta,Coast,0,Medium,39.8,44.1,-10.8
+Lamu,Coast,1,Medium,34.2,38.9,-13.74
+Tharaka Nithi,Eastern,0,Medium,43.5,32.5,25.29

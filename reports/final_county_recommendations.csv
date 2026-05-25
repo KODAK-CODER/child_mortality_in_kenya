@@ -1,0 +1,130 @@
+County,Rank,Intervention_ID,CBF_Score,CF_Score,Hybrid_Score,Intervention_Name,Category,ASAL_Suitable,WHO_Evidence_Level,Budget_Requirement,Effectiveness_Score,Feasibility_Score,Cost_Effectiveness_Score,Composite_Score,ASAL_County,Risk_Tier,Projected_U5_Mortality_2025,Reduction_pct
+Mandera,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,True,High,38.7,38.28
+Mandera,2,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,True,High,38.7,38.28
+Mandera,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,True,High,38.7,38.28
+Wajir,1,INT014,89.9,100.0,93.94,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,True,High,45.4,22.66
+Wajir,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,True,High,45.4,22.66
+Wajir,3,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,True,High,45.4,22.66
+Turkana,1,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,True,High,41.6,35.8
+Turkana,2,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,True,High,41.6,35.8
+Turkana,3,INT014,89.9,84.17609409581812,87.61043763832726,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,True,High,41.6,35.8
+Garissa,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,True,High,57.4,23.97
+Garissa,2,INT014,89.9,93.2912217670192,91.25648870680769,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,True,High,57.4,23.97
+Garissa,3,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,True,High,57.4,23.97
+Marsabit,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,True,High,57.3,21.83
+Marsabit,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,True,High,57.3,21.83
+Marsabit,3,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,True,High,57.3,21.83
+Samburu,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,True,Medium,50.3,-8.41
+Samburu,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,True,Medium,50.3,-8.41
+Samburu,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,True,Medium,50.3,-8.41
+Tana River,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,True,Medium,57.7,-28.79
+Tana River,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,True,Medium,57.7,-28.79
+Tana River,3,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,True,Medium,57.7,-28.79
+Isiolo,1,INT002,84.7,100.0,90.82,Integrated Management Of Childhood Illness (Imci),Health System,True,Strong,Medium,91,75,85,84.7,True,Medium,43.8,-42.67
+Isiolo,2,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,True,Medium,43.8,-42.67
+Isiolo,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,True,Medium,43.8,-42.67
+Kwale,1,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,39.5,22.24
+Kwale,2,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,39.5,22.24
+Kwale,3,INT004,81.65,100.0,88.99000000000001,Skilled Birth Attendance Training,Maternal Health,True,Strong,Medium,89,72,80,81.6,False,Medium,39.5,22.24
+Kilifi,1,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,38.1,3.79
+Kilifi,2,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,38.1,3.79
+Kilifi,3,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,38.1,3.79
+Bungoma,1,INT007,89.15,95.4867519918524,91.68470079674096,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Medium,33.1,28.97
+Bungoma,2,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,33.1,28.97
+Bungoma,3,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,33.1,28.97
+Migori,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Medium,34.4,-7.84
+Migori,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,34.4,-7.84
+Migori,3,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,34.4,-7.84
+Homa Bay,1,INT014,89.9,100.0,93.94,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,32.6,13.07
+Homa Bay,2,INT017,88.05000000000001,0.0,88.05000000000001,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Medium,32.6,13.07
+Homa Bay,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,False,Medium,32.6,13.07
+Siaya,1,INT006,90.55,100.0,94.33,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,33.6,17.44
+Siaya,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,33.6,17.44
+Siaya,3,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,33.6,17.44
+West Pokot,1,INT014,89.9,97.11143001993746,92.784572007975,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,True,Medium,43.8,7.98
+West Pokot,2,INT017,88.05000000000001,0.0,88.05000000000001,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,True,Medium,43.8,7.98
+West Pokot,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,True,Medium,43.8,7.98
+Mombasa,1,INT014,89.9,100.0,93.94,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Low,32.8,-22.85
+Mombasa,2,INT017,88.05000000000001,96.32870272027588,91.36148108811037,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Low,32.8,-22.85
+Mombasa,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,False,Low,32.8,-22.85
+Kiambu,1,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Low,34.0,-103.59
+Kiambu,2,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Low,34.0,-103.59
+Kiambu,3,INT017,88.05000000000001,0.0,88.05000000000001,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Low,34.0,-103.59
+Nyeri,1,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Low,30.6,-15.04
+Nyeri,2,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,False,Low,30.6,-15.04
+Nyeri,3,INT014,89.9,83.220708477629,87.2282833910516,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Low,30.6,-15.04
+Nakuru,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Low,41.6,-177.33
+Nakuru,2,INT007,89.15,94.2206142543922,91.17824570175688,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Low,41.6,-177.33
+Nakuru,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,False,Low,41.6,-177.33
+Kisumu,1,INT007,89.15,100.0,93.49,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Low,35.2,-134.67
+Kisumu,2,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,False,Low,35.2,-134.67
+Kisumu,3,INT016,83.25,94.63005679207164,87.80202271682865,Seasonal Malaria Chemoprevention (Smc),Malaria,True,Strong,Low,85,80,84,83.2,False,Low,35.2,-134.67
+Uasin Gishu,1,INT014,89.9,100.0,93.94,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Low,51.3,-131.08
+Uasin Gishu,2,INT007,89.15,89.90570316911636,89.45228126764655,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Low,51.3,-131.08
+Uasin Gishu,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,False,Low,51.3,-131.08
+Embu,1,INT007,89.15,100.0,93.49,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Low,47.6,-135.64
+Embu,2,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Low,47.6,-135.64
+Embu,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,False,Low,47.6,-135.64
+Nyandarua,1,INT014,89.9,100.0,93.94,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Low,28.5,-7.14
+Nyandarua,2,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,False,Low,28.5,-7.14
+Nyandarua,3,INT007,89.15,75.0582526699422,83.51330106797688,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Low,28.5,-7.14
+Laikipia,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Low,37.6,-150.67
+Laikipia,2,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Low,37.6,-150.67
+Laikipia,3,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Low,37.6,-150.67
+Makueni,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Low,21.6,-44.0
+Makueni,2,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Low,21.6,-44.0
+Makueni,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,False,Low,21.6,-44.0
+Kitui,1,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,36.4,13.13
+Kitui,2,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Medium,36.4,13.13
+Kitui,3,INT017,88.05000000000001,0.0,88.05000000000001,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Medium,36.4,13.13
+Murang'A,1,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Low,50.8,-131.96
+Murang'A,2,INT016,83.25,100.0,89.94999999999999,Seasonal Malaria Chemoprevention (Smc),Malaria,True,Strong,Low,85,80,84,83.2,False,Low,50.8,-131.96
+Murang'A,3,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Low,50.8,-131.96
+Kajiado,1,INT002,84.7,100.0,90.82,Integrated Management Of Childhood Illness (Imci),Health System,True,Strong,Medium,91,75,85,84.7,True,Medium,43.0,-24.64
+Kajiado,2,INT009,87.85,91.84147399913482,89.44658959965392,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,True,Medium,43.0,-24.64
+Kajiado,3,INT017,88.05000000000001,90.82979627159658,89.16191850863864,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,True,Medium,43.0,-24.64
+Narok,1,INT017,88.05000000000001,99.1637372787942,92.49549491151768,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,True,Medium,64.7,-55.53
+Narok,2,INT014,89.9,95.23674575710042,92.03469830284018,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,True,Medium,64.7,-55.53
+Narok,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,True,Medium,64.7,-55.53
+Bomet,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Medium,31.8,34.43
+Bomet,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,31.8,34.43
+Bomet,3,INT007,89.15,93.41145625918216,90.85458250367287,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,False,Medium,31.8,34.43
+Kericho,1,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Low,21.9,-20.99
+Kericho,2,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Low,21.9,-20.99
+Kericho,3,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Low,21.9,-20.99
+Nandi,1,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Low,39.4,-108.47
+Nandi,2,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Low,39.4,-108.47
+Nandi,3,INT001,83.95,100.0,90.37,Community Health Worker Deployment,Health System,True,Strong,Medium,88,82,79,84.0,False,Low,39.4,-108.47
+Elgeyo Marakwet,1,INT011,90.9,100.0,94.54,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,52.2,-45.81
+Elgeyo Marakwet,2,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,52.2,-45.81
+Elgeyo Marakwet,3,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,52.2,-45.81
+Baringo,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Medium,36.9,26.49
+Baringo,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,36.9,26.49
+Baringo,3,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,36.9,26.49
+Trans Nzoia,1,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,39.8,25.75
+Trans Nzoia,2,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,39.8,25.75
+Trans Nzoia,3,INT001,83.95,100.0,90.37,Community Health Worker Deployment,Health System,True,Strong,Medium,88,82,79,84.0,False,Medium,39.8,25.75
+Busia,1,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,51.3,-60.82
+Busia,2,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,51.3,-60.82
+Busia,3,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,51.3,-60.82
+Kakamega,1,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,52.4,-5.22
+Kakamega,2,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,52.4,-5.22
+Kakamega,3,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,52.4,-5.22
+Vihiga,1,INT014,89.9,100.0,93.94,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,36.8,26.55
+Vihiga,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,36.8,26.55
+Vihiga,3,INT017,88.05000000000001,0.0,88.05000000000001,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Medium,36.8,26.55
+Kisii,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Medium,51.8,-15.62
+Kisii,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,51.8,-15.62
+Kisii,3,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,51.8,-15.62
+Nyamira,1,INT011,90.9,100.0,94.54,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,37.5,-15.38
+Nyamira,2,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,37.5,-15.38
+Nyamira,3,INT014,89.9,0.0,89.9,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,37.5,-15.38
+Taita Taveta,1,INT014,89.9,100.0,93.94,Insecticide-Treated Nets (Itn) Distribution,Malaria,True,Strong,Low,90,88,92,89.9,False,Medium,44.1,-10.8
+Taita Taveta,2,INT017,88.05000000000001,0.0,88.05000000000001,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,False,Medium,44.1,-10.8
+Taita Taveta,3,INT009,87.85,0.0,87.85,Exclusive Breastfeeding Promotion,Nutrition,True,Moderate,Low,83,90,94,87.8,False,Medium,44.1,-10.8
+Lamu,1,INT017,88.05000000000001,100.0,92.83,Pneumonia Case Management (Amoxicillin),Pneumonia,True,Strong,Low,89,85,90,88.1,True,Medium,38.9,-13.74
+Lamu,2,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,True,Medium,38.9,-13.74
+Lamu,3,INT007,89.15,0.0,89.15,Vitamin A Supplementation,Nutrition,True,Strong,Low,84,92,95,89.2,True,Medium,38.9,-13.74
+Tharaka Nithi,1,INT011,90.9,0.0,90.9,Oral Rehydration Therapy (Ort) Scale-Up,Diarrhea Control,True,Strong,Low,88,91,96,90.9,False,Medium,32.5,25.29
+Tharaka Nithi,2,INT006,90.55,0.0,90.55,Expanded Programme On Immunization (Epi),Immunization,True,Strong,Low,92,88,91,90.6,False,Medium,32.5,25.29
+Tharaka Nithi,3,INT001,83.95,100.0,90.37,Community Health Worker Deployment,Health System,True,Strong,Medium,88,82,79,84.0,False,Medium,32.5,25.29

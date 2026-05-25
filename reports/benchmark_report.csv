@@ -1,0 +1,8 @@
+Metric,Target,Achieved,Status
+Classifier accuracy,0.85,0.2,✗ FAIL
+High-risk F1 score,0.85,0.0,✗ FAIL
+"Mortality RMSE (per 1,000)",5.0,17.621,✗ FAIL
+Mortality R²,0.88,-0.272,✗ FAIL
+Recommendation Precision@3,0.7,0.188,✗ FAIL
+ASAL mortality reduction %,20.0,7.967,✗ FAIL
+2025 national projection,30.0,41.189,✗ FAIL
