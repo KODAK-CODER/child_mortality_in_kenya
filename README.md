@@ -17,9 +17,7 @@
 - [Visualisations](#visualisations)
 - [Repository Structure](#repository-structure)
 - [Technologies Used](#technologies-used)
-- [Authors](#authors)
-
----
+- [Author](#author
 
 ## Project Overview
 
@@ -73,11 +71,11 @@ Three datasets are used in this project:
 child_mortality_in_kenya/
 │
 ├── data/
-│   ├── raw/                              # Original CSV datasets (gitignored)
+│   ├── raw/                              # Original CSV datasets 
 │   │   ├── county_mortality_indicators.csv
 │   │   ├── intervention_effectiveness_registry.csv
 │   │   └── historical_deployment_records.csv
-│   └── processed/                        # Cleaned & engineered outputs (gitignored)
+│   └── processed/                        # Cleaned & engineered outputs 
 │       ├── county_mortality_indicators_clean.csv
 │       ├── intervention_effectiveness_registry_clean.csv
 │       ├── historical_deployment_records_clean.csv
@@ -94,16 +92,16 @@ child_mortality_in_kenya/
 │   └── evaluator.py                     # Model evaluation and benchmarking
 │
 ├── scripts/                              # Runnable pipeline scripts
-│   ├── run_cleaning.py                  # Day 1 AM — clean all datasets
-│   ├── run_eda.py                       # Day 1 PM — generate EDA visualisations
-│   └── run_model.py                     # Day 2 — train and save all models
+│   ├── run_cleaning.py                  # clean all datasets
+│   ├── run_eda.py                       # generate EDA visualisations
+│   └── run_model.py                     #  train and save all models
 │
 ├── notebooks/                            
 │   ├── 01_data_preparation_eda.ipynb    # Data cleaning, feature engineering, EDA
 │   ├── 02_modeling.ipynb                # Risk classifier, regressor, recommender
 │   └── 03_evaluation_recommendations.ipynb  # Benchmarks, projections, reports
 │
-├── models/                               # Saved model files (gitignored)
+├── models/                               # Saved model files
 │   ├── risk_classifier.pkl
 │   ├── mortality_regressor.pkl
 │   └── label_encoders.pkl
